@@ -1,8 +1,12 @@
+<br clear="both">
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20Mayo_0x0's%20profile&fontSize=30&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=000000&strokeWidth=3&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=cccccc"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -16,11 +20,15 @@
 
 ###
 
+<br clear="both">
+
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media1.tenor.com/m/BvTHaNKag94AAAAd/cuayo-speaki.gif"  />
+  <img data-importer="image" height="200" src="https://static2.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/12/4f/7Cgig28GJMOndQhch.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/BoomboxRapsody/BoomboxRapsody/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -36,6 +44,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div data-importer="socials" align="center">
   <a href="https://x.com/Mayo_0x0" target="_blank">
@@ -53,6 +63,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
